@@ -4,7 +4,7 @@
 ### 💡 Building intelligent data-driven systems that blend design, AI, and finance.
 
 ### 🚀 Featured Projects
-- 🧮 [Momentum Strategy Backtester](https://github.com/jay/momentum-backtester)
+- 🧮 [Momentum Strategy Backtester](https://github.com/jay-kalaria/momentum-strategy-backtest)
 - 🤖 [AntiCal.ai App](https://github.com/jay-kalaria/antical-ai-app)
 - 🧠 [Customer segmentation Analysis](https://github.com/jay-kalaria/customer-segmentation-analysis)
 
