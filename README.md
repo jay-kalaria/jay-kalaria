@@ -5,7 +5,7 @@
 
 ### 🚀 Featured Projects
 - 🧮 [Momentum Strategy Backtester](https://github.com/jay-kalaria/momentum-strategy-backtest)
-- 🤖 [AntiCal.ai App](https://github.com/jay-kalaria/antical-ai-app)
+- 🤖 [AntiCal.ai React Native App](https://github.com/jay-kalaria/antical-ai-app)
 - 🧠 [Customer segmentation Analysis](https://github.com/jay-kalaria/customer-segmentation-analysis)
 
 ### 🧰 Tech
