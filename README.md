@@ -1,4 +1,4 @@
-## Hi there, I'm Jay 👋
+# Hi there, I'm Jay 👋
 
 ### 🎓 Applied AI student
 ### 💡 Building intelligent data-driven systems that blend design, AI, and finance.
