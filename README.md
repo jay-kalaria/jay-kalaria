@@ -1,7 +1,7 @@
 ## Hi there, I'm Jay 👋
 
-🎓 Applied AI student
-💡 Building intelligent data-driven systems that blend design, AI, and finance.
+### 🎓 Applied AI student
+### 💡 Building intelligent data-driven systems that blend design, AI, and finance.
 
 ### 🚀 Featured Projects
 - 🧮 [Momentum Strategy Backtester](https://github.com/jay/momentum-backtester)
